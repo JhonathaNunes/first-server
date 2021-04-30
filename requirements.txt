@@ -54,7 +54,7 @@ pyrsistent==0.15.3
 python-dateutil==2.8.0
 PyYAML==5.1
 pyzmq==18.0.2
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.2.1
 Send2Trash==1.5.0
 six==1.12.0
